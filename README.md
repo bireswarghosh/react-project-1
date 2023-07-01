@@ -4,30 +4,54 @@
 
               npx create-react-app <YOUR_PROJECT_Name>
               npm i react-router-dom react-icons sass
+               npm i react-router-hash-link
 
 
 
+creat 3 folder under the src   1)assets where i save all image ,2. componantes where i add all componants 3. styles where i add all scss file for style.
 
-creat 3 folder under the src  
+first, go App.jsx
+creat routeing set up 
+go line 4 
+and under the return statment set Router, Routes,Route
 
-
-
-
-
-
-
-
-
-
+second , go styles folder 
+ creat a App.scss file where i add a universal tag .  
+then creat a  colour.scss file where add some colour through nameing convencation .
 
 
-
-
-
+then, componantes folder ,
+  and creat Header.jsx     this file where i import Link tag line 2 .
+and creat a <nav> bar and add this link  ,line 8- 17
 
 
 
+next, go App.js and and add all this link like,
 
+import Header from "./components/Header";
+import  "./styles/App.scss"
+import  "./styles/header.scss"
+
+
+
+after all this part , now add 
+
+
+i go  styles/header.scss 
+hear, i basically adjust the header part . 
+
+
+6. now i creat Home.jsx  and home.scss and add this on App.jsx
+
+7. now work on home.scss --
+ firsr , to import colour use it  @import "colour" otherwise you can use @import "./styles/colour.scss"
+
+
+
+now hear we simpaly add  4 div  in Home.jsx and add it scss file in home.scss . this some basic .
+
+
+# we want a tag that`s work it shift pages without loded like Link tag and go to parfect id likr <a> tag so intruduse , npm i react-router-hash-link
 
 
 

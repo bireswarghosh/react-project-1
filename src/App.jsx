@@ -3,6 +3,17 @@
 
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Header from "./components/Header";
+import Home from "./components/Home.jsx";
+import Footer from './components/Footer.jsx'
+
+
+
+import  "./styles/App.scss"
+import  "./styles/header.scss"
+import  "./styles/home.scss"
+import  "./styles/footer.scss"
+
+
 function App() {
   return (
 <>
@@ -10,12 +21,12 @@ function App() {
 <Router>
       <Header />
       <Routes>
-        <Route/>
-        {/* <Route path="/" element={<Home />} />
-        <Route path="/contact" element={<Contact />} />
+         
+        <Route path="/" element={<Home />} />
+        {/*  <Route path="/contact" element={<Contact />} />
         <Route path="/services" element={<Services />} /> */}
       </Routes>
-      {/* <Footer /> */}
+     {/*  <Footer /> */}
     </Router>
 
 
