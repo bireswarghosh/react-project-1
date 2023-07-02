@@ -2,10 +2,10 @@
 
   OPEN TERMINAL AND TYPE --->>  
 
-              npx create-react-app <YOUR_PROJECT_Name>
-              npm i react-router-dom react-icons sass
-               npm i react-router-hash-link
-
+        npx create-react-app <YOUR_PROJECT_Name>
+         npm i react-router-dom react-icons sass
+           npm i react-router-hash-link
+             npm i react-responsive-carousel
 
 
 creat 3 folder under the src   1)assets where i save all image ,2. componantes where i add all componants 3. styles where i add all scss file for style.
@@ -51,7 +51,7 @@ hear, i basically adjust the header part .
 now hear we simpaly add  4 div  in Home.jsx and add it scss file in home.scss . this some basic .
 
 
-# we want a tag that`s work it shift pages without loded like Link tag and go to parfect id likr <a> tag so intruduse , npm i react-router-hash-link
+# we want a tag that`s work it shift pages without loded like Link tag and go to parfect id like <a> tag so introduse , npm i react-router-hash-link
 
 
 

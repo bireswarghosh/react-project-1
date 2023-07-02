@@ -35,21 +35,17 @@ function Home() {
         <div>
           <h1>Who we are?</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis
-            officiis hic illo quos sit commodi, aut magnam odio eligendi? Totam
-            quis officiis fugit sunt dolores nostrum tenetur iusto est odio
-            mollitia. Dolor placeat repellendus officia aspernatur dolorum
-            harum. Dolorem cumque quaerat eius qui deserunt ullam laudantium
-            quia tempore. Dignissimos esse sequi numquam est ipsam nemo,
-            voluptas vel recusandae iste aspernatur qui quasi, commodi, atque
-            ipsa dolores tempore asperiores? Dolores soluta placeat molestiae
-            aperiam, ullam officia fugiat corrupti odio, suscipit ipsum cum vel
-            nemo. Ratione quo tempore fugit quaerat! Facilis beatae impedit
-            similique maxime praesentium sunt unde necessitatibus voluptates
-            ipsa, et, numquam reiciendis eveniet? Aliquid nemo nesciunt placeat,
-            qui fuga quae repellat sunt, non natus, iure ab officia rem ipsa cum
-            sed cumque corporis voluptate quibusdam nostrum quod saepe
-          </p>
+          Welcome to our technical support website! We are here to assist you with all your technical needs and provide solutions to any problems you may encounter. Our team of dedicated experts is well-versed in a wide range of technologies and is committed to delivering top-notch support.
+
+Whether you are facing issues with your computer, software applications, or electronic devices, we've got you covered. Our comprehensive knowledge base and troubleshooting guides offer step-by-step instructions to help you resolve common technical issues on your own. From troubleshooting network connectivity problems to resolving software conflicts, we provide detailed insights to assist you in overcoming challenges.
+
+If you need personalized assistance, our responsive customer support team is just a click away. Reach out to us via our contact form or live chat feature, and we'll swiftly address your concerns. Our support agents are trained to understand your technical queries and provide prompt, effective solutions.
+
+Furthermore, our website offers a vibrant community forum where users can engage with fellow enthusiasts, share experiences, and exchange valuable insights. Our forum provides an excellent platform for troubleshooting discussions, finding workarounds, and discovering innovative solutions from like-minded individuals.
+
+We understand the importance of staying up-to-date with the latest technology trends, so our website features informative articles, blog posts, and tutorials on emerging technologies. Whether you are looking to explore the world of artificial intelligence, cybersecurity, or cloud computing, our resources will empower you to expand your knowledge and stay ahead of the curve.
+
+At our technical support website, we strive to provide exceptional service and ensure your technical journey is smooth and hassle-free. We are committed to resolving your issues promptly, equipping you with the necessary knowledge, and fostering a supportive community. Trust us to be your go-to resource for all your technical support needs.</p>
         </div>
       </div>
 

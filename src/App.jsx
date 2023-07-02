@@ -6,7 +6,7 @@ import Header from "./components/Header";
 import Home from "./components/Home.jsx";
 import Footer from "./components/Footer";
 import Contract from "./components/Contract.jsx";
-
+import Services from "./components/Services";
 
 
 import  "./styles/App.scss"
@@ -14,6 +14,8 @@ import  "./styles/header.scss"
 import  "./styles/home.scss"
 import  "./styles/footer.scss"
 import  "./styles/contract.scss"
+import  "./styles/mediaquery.scss"
+import "./components/Services";
 
 function App() {
   return (
@@ -24,8 +26,8 @@ function App() {
       <Routes>
          
         <Route path="/" element={<Home />} />
-        {/*  <Route path="/contact" element={<Contact />} />
-        <Route path="/services" element={<Services />} /> */}
+        <Route path="/contact" element={<Contract />}  />  
+            <Route path="/services" element={<Services />} />  
       </Routes>
       <Footer />
     </Router>
