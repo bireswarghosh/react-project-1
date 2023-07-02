@@ -122,8 +122,25 @@ now, go to return, there creat a div and under it add a rapper of Carousel. so,
 set images where you show on your screen . i import it from assets folders , img 3 & 4 .
 now set carousel 🎠  property like how long it run , loop ➰ etc. so 
 
-add styleing this part so, creat mediaquery.scss file 
 
+
+
+18. for responsive my website i add add media quarry so, crreat a file in style folder 📂 --->
+
+mediaquery.scss hear i add some adjustment my tags.
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!    so complet my project     !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+#now time ⌚ for hosting  :--
+
+
+open terminal and type --- > "npm i -g vercel"
+
+
+then ,
 
 
 
